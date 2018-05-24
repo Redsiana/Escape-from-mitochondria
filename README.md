@@ -6,3 +6,7 @@ How to run the program to replicate or expand the results presented in the manus
 2. Open the file PARAM_TABLE.R and choose the parameter space to explore
 3. Run the script MAIN.R (warning: with a parameter space like the one used in the paper, this starts a sequence of many, heavy simulations, that can last for 2 days on one core)
 4. Generate figures by running the desired Fig.x_script.R files
+
+The figures in the main text of the paper can be replicated thanks to the corresponding R scripts, and the datafiles titration_fix_df.txt and titration_poly_df.txt
+
+Data for supplementary figures is available on request.
